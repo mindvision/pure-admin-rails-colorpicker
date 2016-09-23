@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = 'pure-admin-rails-colorpicker'
   s.version     = PureAdmin::Rails::Colorpicker::VERSION
   s.authors     = ['Tobyn Dockerill']
-  s.email       = ['tobyn@mindvision.com.au']
+  s.email       = ['staff@mindvision.com.au']
   s.homepage    = ''
   s.summary     = 'A colour input using jQuery MiniColors and the jQuery MiniColors Rails gem'
   s.license     = 'MIT'
